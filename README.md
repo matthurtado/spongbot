@@ -1,5 +1,8 @@
 # Discord spongebobify boy
-## A bot to create SpOnGeBoB images, to be used with https://github.com/matthurtado/spongebabber
+A bot to create SpOnGeBoB images, to be used with https://github.com/matthurtado/spongebabber
+
+### Requirements
+- Create a file called discord_key.txt containing your Discord API key
 ### Example usage
 - Create a sponge bob meme image
 ```
