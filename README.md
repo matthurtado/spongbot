@@ -1,4 +1,4 @@
-# Discord spongebobify boy
+# Discord SpOnGiFy bot
 A bot to create SpOnGeBoB images, to be used with https://github.com/matthurtado/spongebabber
 
 ### Requirements
